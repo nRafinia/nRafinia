@@ -1,9 +1,5 @@
 <!--### Hi there 👋-->
 
-<style>
-   .markdown-body table td{border:0}
-</style>
-
 <div>
     <div align=center>
         <a href="https://www.linkedin.com/in/nRafinia/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>

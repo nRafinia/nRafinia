@@ -1,10 +1,8 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <!--### Hi there 👋-->
+
+<style>
+   .markdown-body table td{border:0}
+</style>
 
 <div>
     <div align=center>
@@ -22,17 +20,10 @@ td, th {
         <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nRafinia&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
-    <table >
-        <tr>
-            <td style="border:0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nRafinia&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-            </td>
-            <td style="border:0">
-<img src="https://github-profile-trophy.vercel.app/?username=nRafinia&theme=matrix&no-frame=true&column=3&row=2" alt="trophy"/>  
-            </td>
-        </tr>
-    </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nRafinia&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />         
+  <img src="https://github-profile-trophy.vercel.app/?username=nRafinia&theme=matrix&no-frame=true&column=3&row=2" alt="trophy"/>              
 </div>
+
 <!--
 **nRafinia/nRafinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

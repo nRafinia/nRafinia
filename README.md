@@ -12,11 +12,11 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nRafinia&show_icons=true)](https://github-readme-stats.vercel.app/api?username=nRafinia&show_icons=true)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=nRafinia&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=nRafinia&title_color=5194f0&text_color=black&show_icons=true&icon_color=5194f0&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
         <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nRafinia&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nRafinia&date_format=j%20M%5B%20Y%5D&currStreakLabel=5194f0&fire=5194f0&ring=5194f0" alt="GitHub Streak Stats" height="200" />
         <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=nRafinia&theme=matrix&no-frame=true&column=3&row=2" alt="trophy"/>              
+  <img src="https://github-profile-trophy.vercel.app/?username=nRafinia&no-frame=true&column=3&row=2" alt="trophy"/>              
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nRafinia&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />         -->
 </div>
 

@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/docs/.vs/docs/config
+/docs/.vs/docs/v17
+/docs/.vs/slnx.sqlite
+/docs/assets/css/.DS_Store

@@ -16,8 +16,8 @@
         <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nRafinia&date_format=j%20M%5B%20Y%5D&currStreakLabel=5194f0&fire=5194f0&ring=5194f0" alt="GitHub Streak Stats" height="200" />
         <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=nRafinia&no-frame=true&column=3&row=2" alt="trophy"/>              
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nRafinia&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />         -->
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=nRafinia&no-frame=true&column=3&row=2" alt="trophy"/>              
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nRafinia&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />         -->
 </div>
 
 <!--
